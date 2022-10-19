@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CustomView</string>
+    <string name="play_emoji_rain_animation">Play</string>
+    <string name="stop_emoji_rain_animation">Stop</string>
 </resources>

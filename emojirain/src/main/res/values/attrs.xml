@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="emoji_rain">
+        <attr name="img_size" format="float" />
+        <attr name="per" format="integer" />
+        <attr name="duration" format="integer" />
+        <attr name="drop_duration" format="integer" />
+        <attr name="drop_frequency" format="integer" />
+    </declare-styleable>
+</resources>
